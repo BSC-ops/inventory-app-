@@ -75,3 +75,8 @@ render();
 </body>
 </html>
 
+name,qty
+Shampoo,120
+Conditioner,85
+Hair Gel,40
+
